@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 #### Currently I am working on :
-- 🎮 Reclient.
-- 📃 Fabric mod.
-- 💾 Learning c++.
+- Learning C.
 
 #### My stats :
 
