@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 #### Currently I am working on :
-- Learning C.
+- [Prototype](https://github.com/MignonPetitXelow/Prototype) projet.
 
 #### My stats :
 
