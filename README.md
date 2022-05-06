@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 #### - 🔨 Currently I am working on :
-- [Prototype](https://github.com/MignonPetitXelow/Prototype) projet.
+- [Prototype/Rpg](https://github.com/MignonPetitXelow/RpgProject) project.
+- [NEC (NationsGlory)](https://github.com/MignonPetitXelow/NotEnoughCraft) project.
 
 #### - 💭 My preferred languages : 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
