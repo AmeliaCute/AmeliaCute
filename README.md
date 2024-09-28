@@ -10,4 +10,4 @@
 
 #### -🎖️ My stats :
 
-<img align="left" alt="Xelow's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MignonPetitXelow&show_icons=true&hide_border=true&theme=gotham" />
+<img align="left" alt="Xelow's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AmeliaCute&show_icons=true&hide_border=true&theme=gotham" />
