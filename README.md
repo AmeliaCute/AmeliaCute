@@ -12,7 +12,7 @@
 ###
 
 <div align="left">
-  <img src="https://ghreadme.amycute.xyz/api?username=AmeliaCute&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://ghreadme.amycute.xyz/api?username=AmeliaCute&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&locale=en&hide_border=false&order=1&text_bold=false&show=reviews,prs_merged,prs_merged_percentage" height="150" alt="stats graph"  />
   <img src="https://ghreadme.amycute.xyz/api/top-langs?username=AmeliaCute&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://ghreadme.amycute.xyz/api/wakatime?username=AmeliaCute&theme=tokyonight&hide_border=false&layout=compact&langs_count=10" height="150" alt="wakatime stats" />
 
