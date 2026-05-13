@@ -1,11 +1,11 @@
-<h2 align="left">Hello, I'm AmeliaCute, and I'm stupid, I guess :3</h2>
+<h2 align="left">Hello, I'm AmeliaCute *(A Random Amelia)* :3</h2>
 
 ###
 
 <p align="left">
 💻 Low-level programming enthusiast doing reverse engineering, kernel development, and embedded systems and other shit<br>
 🔧 Focused on modding, API development, and creating tools rn<br>
-💖 Loving C and x86_64 Assembly :3 <br> 
+💖 Loving C and x86_64 / ARM Assembly :3 <br> 
 ✨ Proudest project: <a href="https://github.com/ReDevCafe/FantasyLifeI-API">FantasyLifeI-API</a>
 </p>
 
